@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CareList</string>
+    <string name="tasks_title">Tasks</string>
+    <string name="filter_general_tasks_menu_string">Filter General Tasks</string>
+    <string name="filter_medication_tasks_menu_string">Filter Medication Tasks</string>
+    <string name="filter_hydration_tasks_menu_string">Filter Hydration Tasks</string>
+    <string name="filter_nutrition_tasks_menu_string">Filter Nutrition Tasks</string>
+    <string name="the_device_is_not_connected_to_the_internet">The device is not connected to the internet.</string>
+    <string name="ok">ok</string>
+    <string name="lost_internet_connection_text">You have lost connection to the Internet. Icon from www.flaticon.com</string>
+</resources>
