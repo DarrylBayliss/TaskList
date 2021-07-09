@@ -4,10 +4,10 @@ name: detekt
 on:
  push:
    branches:
-   - main
+   - master
  pull_request:
    branches:
-   - main
+   - master
 ## 3
 jobs:
  detekt:
